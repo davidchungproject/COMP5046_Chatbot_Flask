@@ -8,6 +8,7 @@ This framework uses a bootstrap chat template(https://bootsnipp.com/snippets/exR
 2. include all functions to get response in the get_response() function in the app.py
 
 When the specific personality is selected, the following values (string) will be sent to the server.
+
 [Professional, Comic, Friend]
 
 # How to execute
